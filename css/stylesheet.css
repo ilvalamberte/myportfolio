@@ -120,7 +120,7 @@ h2{
     width: 70%;
     margin: auto;
     overflow: hidden;
-    margin-top: 75px;
+    margin-top: 25px;
     text-align: center;
     
 }
@@ -194,7 +194,7 @@ color: black;
 }
 
 #showcase h1 {
-margin-top: 100px;
+margin-top: 50px;
 font-size: 25px;
 margin-bottom: 10px;
 }
@@ -234,7 +234,7 @@ text-align:inherit;
 
 #showcasein h1{
     
-        margin-top: 125px;
+        margin-top: 100px;
         text-align: center;
     }
 
